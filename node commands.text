@@ -1,0 +1,9 @@
+Command for installing nodejs
+npm install package_name
+npm init (for making package.json)
+npm init -y(for making package)
+npm i -D nodemon
+npm i express -- for installing express
+npm i uuid -- for installing uuid module
+(for auto folder)
+ npx express-generator
